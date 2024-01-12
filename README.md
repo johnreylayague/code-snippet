@@ -9,6 +9,6 @@
 ##
 
 #### Typescript
-[React Typescript - My Template](https://github.com/johnreylayague/code-snippet/blob/main/typescript.md)
+[Typescript - My Template](https://github.com/johnreylayague/code-snippet/blob/main/typescript.md)
 
-[React TypeScript - Cheatsheets](https://react-typescript-cheatsheet.netlify.app)
+[React TypeScript Docs - Cheatsheets](https://react-typescript-cheatsheet.netlify.app)
