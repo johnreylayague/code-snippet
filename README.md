@@ -8,8 +8,8 @@
 
 ##
 
-#### Typescript
-- [Typescript - My Template](https://github.com/johnreylayague/code-snippet/blob/main/typescript.md)
+#### TypeScript
+- [TypeScript - My Template](https://github.com/johnreylayague/code-snippet/blob/main/typescript.md)
 
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) - Cheatsheets for experienced React developers getting started with TypeScript.
 
