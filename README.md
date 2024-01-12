@@ -8,5 +8,5 @@
 
 ##
 
-#### React Typescript
+#### Typescript
 [React Typescript](https://github.com/johnreylayague/code-snippet/blob/main/react-typescript.md)
