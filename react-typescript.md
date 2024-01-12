@@ -1,5 +1,5 @@
-# React Typescript
 
+# Typescript
 #### Interface Combined Types
 
 ```javascript
@@ -26,3 +26,5 @@ const combinedData2: CombinedType2 = {
 ```
 
 ##
+
+# React Typescript
