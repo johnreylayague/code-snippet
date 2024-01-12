@@ -10,3 +10,5 @@
 
 #### Typescript
 [React Typescript](https://github.com/johnreylayague/code-snippet/blob/main/react-typescript.md)
+
+[React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app)
