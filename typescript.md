@@ -25,6 +25,13 @@ const combinedData2: CombinedType2 = {
 };
 ```
 
+
+#### Casting
+
+```javascript
+const requiest = req.name as string;
+```
+
 #### Generics
 
 ```javascript
