@@ -11,4 +11,7 @@
 #### Typescript
 [Typescript - My Template](https://github.com/johnreylayague/code-snippet/blob/main/typescript.md)
 
-[React TypeScript Docs - Cheatsheets](https://react-typescript-cheatsheet.netlify.app)
+[React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) - Cheatsheets for experienced React developers getting started with TypeScript
+
+[TypeScript Cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - A set of TypeScript related notes used for quick reference. The cheatsheet contains references to types, classes, decorators, and many other TypeScript related subjects.
+
